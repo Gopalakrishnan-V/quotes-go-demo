@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.21",
     "quotes-go": "^1.0.4",
     "react": "^16.8.6",
     "react-device-detect": "^1.6.2",
